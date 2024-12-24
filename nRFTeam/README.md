@@ -8,8 +8,10 @@ Samanvay Upadhyay:
     - 33797913
 Jenny Yang:
     - jennyyang@umass.edu
+    - 33653595
 Ishrak Zaman
     - szaman@umass.edu
+    - 33812024
 
 Code:
 
